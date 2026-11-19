@@ -1,4 +1,4 @@
--- QUESTION 1: CREATING A COMPLETE DATABASE BACKUP
+-- QUESTION 1: CREATING A COMPLETE DATABASE BACKUP.
 -- -----------------------------------------------------
 -- Command:
 -- mysqldump -u root -p sales --result-file=sales_backup.sql
